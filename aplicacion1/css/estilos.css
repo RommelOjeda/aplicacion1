@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f2f2f2;
+}
+header.cabecera{
+	color: red;
+	font-size: 20px;
+	background: #FFC800;
+	width: 90%;
+	margin: 0 auto;
+}
+header.cabecera h1{
+	padding: 1em 1em;
+}
+aside{
+    background:blue;
+    display: inline-block;
+    width: 20%;
+    height: 500px;
+    text-align: center;
+    margin-left: 5%;
+}
+section{
+    background: #FF8F00;
+    font-size: 22px;
+    text-align: center;
+    display: inline-block;
+    width: 70%;
+    margin: auto;
+}
+
+.articulo{
+	background: red;
+	color: black;
+	font-size: 25px;
+	width: 90%;
+	margin: 0 auto;
+}
+nav.menu , footer{
+	background: #00FFF2;
+	width: 90%;
+	margin: 0 auto;
+}
